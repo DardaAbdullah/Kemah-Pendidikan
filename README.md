@@ -1,2 +1,4 @@
-edrfdasfdsfinput-your-repository-name
-=====================================
+# edrfdasfdsfinput-your-repository-name
+## input tags
+This document is made by [gitfab](http://gitfab.org)
+---
